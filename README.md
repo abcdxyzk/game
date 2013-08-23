@@ -5,8 +5,9 @@ game
 
 algorithm game
 
+--
 都是eclipse项目
-==
+--
 
 DDD 自动打豆豆--先随机打掉180个，剩下的用dfs。多试几次都能得出解
 
